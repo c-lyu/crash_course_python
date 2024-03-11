@@ -12,6 +12,8 @@
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "slidev-theme-purplin": "^1.2.0",
+    "@iconify-json/simple-icons": "1.1.94",
+    "@iconify-json/uim": "1.1.9",
     "vue": "^3.4.21"
   },
   "devDependencies": {
